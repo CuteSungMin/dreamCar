@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/dreamCar/static/css/main.f855e6bc.css",
+    "main.js": "/dreamCar/static/js/main.bccc2fec.js",
+    "static/media/lamborghini2.glb": "/dreamCar/static/media/lamborghini2.f2b69b1eed79ae665dea.glb",
+    "static/media/bmw.glb": "/dreamCar/static/media/bmw.450a4bc60965971ee045.glb",
+    "static/media/lamborghini1.glb": "/dreamCar/static/media/lamborghini1.62f0622a8a75cfd0c255.glb",
+    "static/media/room.glb": "/dreamCar/static/media/room.cde4f89f9bd94bef1f25.glb",
+    "index.html": "/dreamCar/index.html",
+    "main.f855e6bc.css.map": "/dreamCar/static/css/main.f855e6bc.css.map",
+    "main.bccc2fec.js.map": "/dreamCar/static/js/main.bccc2fec.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.bccc2fec.js"
+  ]
+}
